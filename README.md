@@ -4,7 +4,7 @@ A backend-only clone of Facebook built with **C#**, **ASP.NET Core**, **Entity F
 
 ---
 
-## 🚀 Tech Stack
+##  🚀 Tech Stack
 
 - **Backend**: ASP.NET Core Web API
 - **ORM**: Entity Framework Core
@@ -97,7 +97,7 @@ dotnet run
 ```
 ---
 
-🧠 Lessons Learned
+## 🧠 Lessons Learned
 Real-world JWT authentication and middleware
 
 Structuring scalable Web APIs
@@ -110,7 +110,7 @@ Git mistakes I will never repeat again 😅
 
 ---
 
-##📌 Disclaimer
+## 📌 Disclaimer
 
 This project is strictly for educational purposes. It's not affiliated with Facebook Inc.
 
