@@ -1,0 +1,6 @@
+@Facebook_HostAddress = http://localhost:5204
+
+GET {{Facebook_HostAddress}}/test/
+Accept: application/json
+
+###
